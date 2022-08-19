@@ -1,6 +1,6 @@
-### Hi there, I'm Sabir Lkhaloufi  👋 
+### Hi there, I'm Kailash Meghwar  👋 
 
-[![Youtube:Sabir](https://img.shields.io/badge/-Sabir-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.Youtube.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.youtube.com/channel/UC6GNAIbkg1NV0LmhopxOxiA)
+
 [![Linkedin:Sabir](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)
 [![Facebook:Sabir](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.Facebook.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.facebook.com/sabirlkhaloufi)
 [![Twitter:Sabir](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/LkhaloufiSabir)](https://twitter.com/LkhaloufiSabir)
@@ -22,9 +22,9 @@
 ## :sassy_man:  About me
 - :school: I am a Junior Web Developer at `YouCode` .
 <br>
-- 🖥️  See my portfolio at [MyPortfolio](http://sabirkhaloufi.me).
+- 🖥️  See my portfolio at [MyPortfolio]([http://sabirkhaloufi.me](http://kailashmeghwar.mywebcommunity.org/)).
 <br>
-- ✉️  You can contact me at [sabirkhaloufi@gmail.com](mailto:sabirkhaloufi@gmail.com)<a href="https://www.twitter.com/LkhaloufiSabir" target="_blank" rel="noreferrer">.
+- ✉️  You can contact me at [kailashsoftware42@gmail.com](mailto:kailashmeghwar@gmail.com)
 <br>
 
 
