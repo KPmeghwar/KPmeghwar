@@ -22,7 +22,7 @@
 ## :sassy_man:  About me
 - :school: I am a Junior Web Developer at `YouCode` .
 <br>
-- 🖥️  See my portfolio at [MyPortfolio]([http://sabirkhaloufi.me](http://kailashmeghwar.mywebcommunity.org/)).
+- 🖥️  See my portfolio at [MyPortfolio](http://kailashmeghwar.mywebcommunity.org/)).
 <br>
 - ✉️  You can contact me at [kailashsoftware42@gmail.com](mailto:kailashmeghwar@gmail.com)
 <br>
